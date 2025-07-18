@@ -8,11 +8,6 @@
 ## 🧠 The Incentivized Healthcare Internet
 
 </div>
-
-<p align="center">
-  <img src="./public/conver.png" width="500" alt="Coming Soon" />
-</p>
-
 ---
 
 ## 🚧 Coming Soon
